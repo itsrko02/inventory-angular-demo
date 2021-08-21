@@ -1,0 +1,26 @@
+.info {
+    background-color:#00D4FF;
+    color: #FFFFFF;
+}
+
+ 
+
+.info:hover {
+    background-color:#00C4EB;
+    color: #FFFFFF;
+}
+
+.clickMe {
+    background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+h2{
+    border: 5px solid rgb(161, 81, 6);
+    border-radius: 50px 20px;
+    padding: 10px;
+}
